@@ -7,13 +7,19 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Site Reliability Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Malaysia.
+# 🚀 Site Reliability Engineer | AWS Certified | Full-Stack Developer  
 
-- 🔭 I’m working as a Site Reliability Engineer, focusing on maintaining and scaling infrastructure.
-- 🎓 I am a certified AWS Solution Architect.
-- ⚡ In my free time I solve problems on Hackerrank and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Nabil_Noh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrnabilnoh/)
-- 👨‍💻 I also work as a full stack developer during my free time, creating applications.
+Hey there! I'm a **Site Reliability Engineer** from **Malaysia**, passionate about maintaining, scaling, and optimizing infrastructure. With a background in **full-stack development**, I bring a unique perspective to reliability and automation, ensuring seamless performance across web applications.  
+
+## 🔥 What I Do  
+- 🔧 **SRE Expertise**: Keeping systems resilient, scalable, and highly available.  
+- 💻 **Full-Stack Development**: Previously built and optimized web applications.  
+- 🎓 **AWS Certified Solution Architect**: Leveraging cloud technologies for efficiency.  
+- 🏆 **Problem Solver**: Active on **HackerRank**, tackling algorithmic challenges.  
+- 📖 **Tech Enthusiast**: Always exploring new trends and innovations.  
+
+## 📫 Let's Connect  
+[![Linkedin Badge](https://img.shields.io/badge/-Nabil_Noh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrnabilnoh/)  
 
 ---
 
