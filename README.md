@@ -1,56 +1,51 @@
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="96" alt="animated waving hand"/></p>
+
+<h1 align="center">Nabil Noh</h1>
+
+<p align="center"><strong>Site Reliability Engineer</strong> | <strong>AWS Certified</strong> | <strong>Full-Stack Background</strong></p>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/mrnabilnoh/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://www.linkedin.com/in/mrnabilnoh/"><img src="https://img.shields.io/badge/LinkedIn-Nabil%20Noh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/mrnabilnoh"><img src="https://img.shields.io/badge/GitHub-mrnabilnoh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mrnabilnoh&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mrnabilnoh&style=flat-square&color=blue" alt="Profile views"></p>
 
-### :man_technologist: &nbsp;About Me :
+<p align="center">
+I am a Site Reliability Engineer from Malaysia focused on resilient systems, cloud operations, and practical automation.
+With a full-stack development background, I work across the full lifecycle from architecture and deployment to monitoring and incident response.
+</p>
 
-# 🚀 Site Reliability Engineer | AWS Certified | Full-Stack Developer  
+<h2 align="center">What I Focus On</h2>
 
-Hey there! I'm a **Site Reliability Engineer** from **Malaysia**, passionate about maintaining, scaling, and optimizing infrastructure. With a background in **full-stack development**, I bring a unique perspective to reliability and automation, ensuring seamless performance across web applications.  
+<p align="center">Reliable infrastructure | Scalable platforms | Automation-first operations | Observability and performance</p>
 
-## 🔥 What I Do  
-- 🔧 **SRE Expertise**: Keeping systems resilient, scalable, and highly available.  
-- 💻 **Full-Stack Development**: Previously built and optimized web applications.  
-- 🎓 **AWS Certified Solution Architect**: Leveraging cloud technologies for efficiency.  
-- 🏆 **Problem Solver**: Active on **HackerRank**, tackling algorithmic challenges.  
-- 📖 **Tech Enthusiast**: Always exploring new trends and innovations.  
+<h2 align="center">Connect</h2>
 
-## 📫 Let's Connect  
-[![Linkedin Badge](https://img.shields.io/badge/-Nabil_Noh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mrnabilnoh/)  
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="go" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnet core" alt="dotnet core" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" title="Prometheus" alt="Prometheus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+<p align="center">
+<a href="https://www.linkedin.com/in/mrnabilnoh/">LinkedIn</a> •
+<a href="https://github.com/mrnabilnoh">GitHub</a>
 </p>
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrnabilnoh&theme=dark&background=000000)](https://git.io/streak-stats)
+<h2 align="center">Languages and Tools</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrnabilnoh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,dotnet,java,react,vue,css,html,js,firebase,mysql,nodejs,gcp,aws,docker,kubernetes,terraform,prometheus,grafana,postman,git&perline=10" alt="Languages and tools: Go, .NET, Java, React, Vue, CSS, HTML, JavaScript, Firebase, MySQL, Node.js, GCP, AWS, Docker, Kubernetes, Terraform, Prometheus, Grafana, Postman, Git" />
+</p>
+
+---
+
+<h2 align="center">Stats</h2>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mrnabilnoh&theme=dark&background=000000" alt="GitHub streak"></a>
+</p>
+
+<!-- TODO: Replace this block with a personal link/card instead of an external template link. -->
+<!--
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnabilnoh&layout=compact&theme=vision-friendly-dark" alt="Top languages"></a>
+</p>
+-->
