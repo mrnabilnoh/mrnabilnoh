@@ -23,17 +23,17 @@ I build tools that automate operations and improve system reliability from the g
 <h2 align="center">Certifications</h2>
 
 <p align="center">
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CNCF Kubestronaut"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/CKAD-Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Application Developer"></a>
+<a href="https://www.credly.com/badges/e830ec9f-3859-42bd-bc9f-714b8f0cca40"><img src="https://img.shields.io/badge/CNCF-Kubestronaut-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CNCF Kubestronaut"></a>
+<a href="https://www.credly.com/badges/889af670-bf56-4427-bd19-bc800d9b9a6a"><img src="https://img.shields.io/badge/CKA-Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Administrator"></a>
+<a href="https://www.credly.com/badges/3dca4832-eff5-45af-bff6-39ecd22cf180"><img src="https://img.shields.io/badge/CKAD-Kubernetes_Application_Developer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Application Developer"></a>
 <br>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/CKS-Kubernetes_Security_Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Security Specialist"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/KCNA-Kubernetes_%26_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes and Cloud Native Associate"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/KCSA-Kubernetes_Cloud_Native_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes and Cloud Native Security Associate"></a>
+<a href="https://www.credly.com/badges/bd76ab2d-3cd3-45c8-ace1-37902ef09f15"><img src="https://img.shields.io/badge/CKS-Kubernetes_Security_Specialist-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Security Specialist"></a>
+<a href="https://www.credly.com/badges/e7ea9b69-3c25-42be-b911-fb7a0b2ca327"><img src="https://img.shields.io/badge/KCNA-Kubernetes_%26_Cloud_Native_Associate-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes and Cloud Native Associate"></a>
+<a href="https://www.credly.com/badges/4cde9730-d507-4cc4-8df5-a3cc974d7397"><img src="https://img.shields.io/badge/KCSA-Kubernetes_Cloud_Native_Security-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes and Cloud Native Security Associate"></a>
 <br>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"></a>
-<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"></a>
+<a href="https://www.credly.com/badges/0d432f85-e2b5-4a12-9742-5628532ed352"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate"></a>
+<a href="https://www.credly.com/badges/34e491eb-7b08-45f9-92ac-73225ae0bd29"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"></a>
+<a href="https://www.credly.com/badges/7c5a0187-9a7b-46b1-9342-39f5ac589c74"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"></a>
 </p>
 
 <h2 align="center">Connect</h2>
