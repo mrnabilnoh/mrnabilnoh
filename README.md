@@ -2,11 +2,12 @@
 
 <h1 align="center">Nabil Noh</h1>
 
-<p align="center"><strong>SRE &amp; AI Cloud Architect</strong> | <strong>Kubestronout</strong> | <strong>Full-Stack Background</strong></p>
+<p align="center"><strong>SRE &amp; AI Cloud Architect</strong> | <strong>Kubestronaut</strong> | <strong>Full-Stack Background</strong></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mrnabilnoh/"><img src="https://img.shields.io/badge/LinkedIn-Nabil%20Noh-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/mrnabilnoh"><img src="https://img.shields.io/badge/GitHub-mrnabilnoh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.credly.com/users/mrnabilnoh/badges/credly"><img src="https://img.shields.io/badge/Credly-Certifications-ff6b00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly certifications"></a>
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mrnabilnoh&style=flat-square&color=blue" alt="Profile views"></p>
@@ -34,13 +35,6 @@ I build tools that automate operations and improve system reliability from the g
 <a href="https://www.credly.com/badges/0d432f85-e2b5-4a12-9742-5628532ed352"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate"></a>
 <a href="https://www.credly.com/badges/34e491eb-7b08-45f9-92ac-73225ae0bd29"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"></a>
 <a href="https://www.credly.com/badges/7c5a0187-9a7b-46b1-9342-39f5ac589c74"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"></a>
-</p>
-
-<h2 align="center">Connect</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mrnabilnoh/">LinkedIn</a> •
-<a href="https://github.com/mrnabilnoh">GitHub</a>
 </p>
 
 ---
