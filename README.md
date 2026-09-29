@@ -35,6 +35,7 @@ I build tools that automate operations and improve system reliability from the g
 <a href="https://www.credly.com/badges/0d432f85-e2b5-4a12-9742-5628532ed352"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Solutions Architect Associate"></a>
 <a href="https://www.credly.com/badges/34e491eb-7b08-45f9-92ac-73225ae0bd29"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"></a>
 <a href="https://www.credly.com/badges/7c5a0187-9a7b-46b1-9342-39f5ac589c74"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified AI Practitioner"></a>
+<a href="https://www.credly.com/badges/36057b84-fb18-4f4a-ae3a-191d0332b786"><img src="https://img.shields.io/badge/AWS-AI_Business_Strategist-EF2B7A?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF" alt="AWS Certified AI Business Strategist"></a>
 </p>
 
 ---
