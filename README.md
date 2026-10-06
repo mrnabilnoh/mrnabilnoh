@@ -45,7 +45,7 @@ I build tools that automate operations and improve system reliability from the g
 <h2 align="center">Languages and Tools</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=go,dotnet,java,react,vue,css,html,js,firebase,mysql,nodejs,gcp,aws,docker,kubernetes,terraform,kafka,prometheus,grafana,postman,git&perline=10" alt="Languages and tools: Go, .NET, Java, React, Vue, CSS, HTML, JavaScript, Firebase, MySQL, Node.js, GCP, AWS, Docker, Kubernetes, Terraform, Kafka, Prometheus, Grafana, Postman, Git" />
+<img src="https://skillicons.dev/icons?i=go,dotnet,nodejs,aws,azure,gcp,linux,docker,kubernetes,terraform,ansible,kafka,prometheus,grafana,git,postman&perline=8" alt="Languages and tools: Go, .NET, Node.js, AWS, Azure, GCP, Linux, Docker, Kubernetes, Terraform, Ansible, Kafka, Prometheus, Grafana, Git, Postman" />
 </p>
 
 ---
