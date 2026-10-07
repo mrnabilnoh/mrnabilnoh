@@ -16,9 +16,7 @@ Building reliable cloud platforms and automation for critical systems.
 
 <div align="center">
 
-I am an SRE and AI Cloud Architect from Malaysia with **10+ years of experience** connecting infrastructure and application development.
-
-I build dependable systems across **multi-tenant Kubernetes platforms**, **regulated FinTech workloads**, **enterprise disaster recovery**, and **automation-first operations**.
+I am an SRE and AI Cloud Architect from Malaysia with **10+ years of experience** connecting infrastructure and application development to build dependable systems across **multi-tenant Kubernetes platforms**, **regulated FinTech workloads**, **enterprise disaster recovery**, and **automation-first operations**.
 
 </div>
 
