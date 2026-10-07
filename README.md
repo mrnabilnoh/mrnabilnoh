@@ -2,8 +2,6 @@
 
 # Nabil Noh
 
-<img src="https://komarev.com/ghpvc/?username=mrnabilnoh&style=flat-square&color=326CE5" alt="Profile views">
-
 ### SRE & AI Cloud Architect · Kubestronaut · Full-Stack Developer
 
 Building reliable platforms, useful automation, and calmer operations.
@@ -74,5 +72,7 @@ My work focuses on turning complex systems into dependable products: from multi-
 Interested in cloud platforms, Kubernetes, automation, or reliability engineering?
 
 <a href="https://www.linkedin.com/in/mrnabilnoh/">Let’s connect on LinkedIn →</a>
+
+<img src="https://komarev.com/ghpvc/?username=mrnabilnoh&style=flat-square&color=326CE5" alt="Profile views">
 
 </div>
