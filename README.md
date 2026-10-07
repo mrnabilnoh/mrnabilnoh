@@ -4,7 +4,7 @@
 
 ### SRE & AI Cloud Architect · Kubestronaut · Full-Stack Developer
 
-Building reliable platforms, useful automation, and calmer operations.
+Building reliable cloud platforms and automation for critical systems.
 
 <p>
   <a href="https://www.linkedin.com/in/mrnabilnoh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
@@ -18,18 +18,18 @@ Building reliable platforms, useful automation, and calmer operations.
 
 I am an SRE and AI Cloud Architect from Malaysia with **10+ years of experience** connecting infrastructure and application development.
 
-My work focuses on turning complex systems into dependable products: from multi-tenant Kubernetes platforms and regulated FinTech workloads to enterprise disaster recovery and automation-first operations.
+I build dependable systems across **multi-tenant Kubernetes platforms**, **regulated FinTech workloads**, **enterprise disaster recovery**, and **automation-first operations**.
 
 </div>
 
-<h2 align="center">What I focus on</h2>
+<h2 align="center">What I build</h2>
 
 <div align="center">
 
-🏗️ <strong>Platform engineering</strong> · Scalable, multi-tenant foundations<br>
-📈 <strong>Reliability engineering</strong> · Observability, SLOs, and resilient design<br>
-⚙️ <strong>Automation</strong> · Practical tooling that reduces operational risk<br>
-🔐 <strong>Cloud &amp; recovery</strong> · Secure architecture and disaster recovery
+🏗️ <strong>Cloud platforms</strong> · Scalable, multi-tenant foundations<br>
+📈 <strong>Reliable systems</strong> · Observability, SLOs, and resilient design<br>
+⚙️ <strong>Automation</strong> · AI-enabled tooling that reduces operational toil<br>
+🔐 <strong>Resilience</strong> · Secure architecture and disaster recovery
 
 </div>
 
@@ -67,9 +67,9 @@ My work focuses on turning complex systems into dependable products: from multi-
 
 <div align="center">
 
-### Building reliable systems, one improvement at a time.
+### Reliable cloud platforms, one improvement at a time.
 
-Interested in cloud platforms, Kubernetes, automation, or reliability engineering?
+Interested in Kubernetes, cloud platforms, automation, or reliability engineering?
 
 <a href="https://www.linkedin.com/in/mrnabilnoh/">Let’s connect on LinkedIn →</a>
 
